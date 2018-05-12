@@ -1,0 +1,936 @@
+Pos,Game,Year,Genre,Publisher,North America,Europe,Japan,Rest of World,Global
+1.0,MineCraft,2014,Misc,Sony Computer Entertainment Europe,0.22,0.73,1.23,0.27,2.45
+2.0,Call of Duty Black Ops: Declassified,2012,Misc,Activision,0.74,0.52,0.07,0.38,1.71
+3.0,Uncharted: Golden Abyss,2011,Action,Sony Computer Entertainment,0.53,0.71,0.13,0.25,1.62
+4.0,Assassin's Creed,2012,Adventure,Ubisoft,0.53,0.57,0.06,0.32,1.48
+5.0,LittleBigPlanet PS Vita,2012,Platform,Sony Computer Entertainment,0.36,0.69,0.02,0.31,1.38
+6.0,persona 4: The golden,2012,Role-Playing,Atlus,0.37,0.29,0.39,0.21,1.25
+7.0,Need for Speed: Most Wanted (a Criterion Game),2012,Misc,Electronic Arts,0.33,0.53,0.01,0.25,1.12
+8.0,Killzone: Mercenary,2013,Misc,Sony Computer Entertainment,0.2,0.47,0.04,0.2,0.92
+9.0,Final Fantasy X / X-2 HD Remaster,2013,Role-Playing,Square Enix,0.16,0.29,0.28,0.13,0.86
+10.0,Mortal Kombat,2012,Fighting,Warner Bros. Interactive Entertainment,0.42,0.15,0.0,0.15,0.71
+11.0,Tearaway,2013,Platform,Sony Computer Entertainment Europe,0.1,0.41,0.0,0.19,0.69
+12.0,Borderlands 2,2014,Shooter,Unknown,0.33,0.18,0.01,0.16,0.68
+13.0,FIFA 15,2014,Sports,EA Sports,0.09,0.38,0.06,0.13,0.66
+14.0,Freedom Wars,2014,Misc,Sony Computer Entertainment,0.15,0.1,0.32,0.08,0.66
+15.0,FIFA Soccer,2012,Misc,EA Sports,0.16,0.35,0.02,0.09,0.63
+16.0,Gravity Rush,2012,Misc,Sony Computer Entertainment,0.21,0.2,0.09,0.1,0.6
+17.0,Everybody's Golf,2011,Sports,Sony Computer Entertainment,0.15,0.12,0.26,0.06,0.59
+18.0,Rayman Origins,2012,Platform,Ubisoft,0.12,0.37,0.0,0.1,0.59
+19.0,Lego Marvel Super Heroes,2013,Action,Warner Bros. Interactive Entertainment,0.11,0.33,0.0,0.13,0.57
+20.0,Soul Sacrifice,2013,Misc,Sony Computer Entertainment,0.15,0.11,0.22,0.08,0.56
+21.0,Unit 13,2012,Misc,Sony Computer Entertainment,0.25,0.15,0.04,0.09,0.53
+22.0,FIFA Soccer 14,2013,Sports,EA Sports,0.08,0.3,0.01,0.11,0.5
+23.0,PlayStation All-Stars Battle Royale,2012,Fighting,Sony Computer Entertainment,0.21,0.16,0.01,0.12,0.5
+24.0,Virtua Tennis 4,2011,Sports,Sega,0.04,0.34,0.01,0.09,0.49
+25.0,Batman: Arkham Origins Blackgate,2013,Misc,Warner Bros. Interactive Entertainment,0.16,0.21,0.0,0.11,0.48
+26.0,FIFA 13,2012,Sports,EA Sports,0.0,0.32,0.05,0.1,0.46
+27.0,God Eater 2,2013,Misc,Namco Bandai Games,0.0,0.0,0.45,0.0,0.45
+28.0,Sonic & Sega All-Stars Racing Transformed ,2012,Racing,Sega,0.09,0.25,0.0,0.1,0.44
+29.0,Metal Gear Solid HD Edition,2012,Action,Konami Digital Entertainment,0.12,0.2,0.05,0.08,0.44
+30.0,Resistance: Burning Skies,2012,Shooter,Sony Computer Entertainment,0.18,0.16,0.02,0.08,0.44
+31.0,God Eater 2: Rage Burst,2015,Role-Playing,Namco Bandai Games,0.0,0.05,0.38,0.01,0.44
+32.0, Ragnarok Odyssey,2012,Role-Playing,Xseed Games,0.2,0.01,0.16,0.05,0.42
+33.0,Sword Art Online: Lost Song,2015,Role-Playing,Namco Bandai Games,0.08,0.04,0.24,0.04,0.41
+34.0,WipEout 2048,2012,Racing,Sony Computer Entertainment,0.13,0.19,0.0,0.06,0.38
+35.0,Tales of Hearts,2013,Misc,Namco Bandai Games,0.11,0.12,0.09,0.07,0.38
+36.0,Dragon's Crown,2013,Role-Playing,Atlus,0.14,0.06,0.12,0.06,0.38
+37.0,Persona 4: Dancing All Night,2015,Misc,NIS America,0.12,0.04,0.16,0.05,0.38
+38.0,LEGO Batman 2: DC Super Heroes,2012,Action-Adventure,Warner Bros. Interactive Entertainment,0.16,0.13,0.0,0.08,0.37
+39.0,Toukiden,2013,Misc,Tecmo Koei,0.04,0.05,0.25,0.03,0.36
+40.0,World of Final Fantasy,2016,Role-Playing,Square Enix,0.09,0.11,0.09,0.06,0.35
+41.0,Madden NFL 13,2012,Sports,EA Sports,0.28,0.0,0.0,0.07,0.35
+42.0,Dangan-Ronpa,2013,Adventure,NIS America,0.09,0.06,0.15,0.05,0.34
+43.0,Hatsune Miku: Project Diva F 2nd,2014,Misc,Sega,0.08,0.05,0.16,0.04,0.32
+44.0,LEGO The Lord of the Rings,2012,Misc,Warner Bros. Interactive Entertainment,0.09,0.16,0.0,0.07,0.32
+45.0,Little Deviants,2011,Platform,Sony Computer Entertainment,0.14,0.13,0.0,0.05,0.32
+46.0,Senran Kagura Shinovi Versus: Shoujotachi no Shoumei,2013,Misc,Marvelous Entertainment,0.08,0.03,0.16,0.04,0.31
+47.0,Ultimate Marvel vs. Capcom 3,2011,Fighting,Capcom,0.17,0.09,0.0,0.05,0.31
+48.0,Modnation Racers,2012,Racing,Sony Computer Entertainment,0.15,0.11,0.0,0.05,0.31
+49.0,Dragon Quest Builders: Revive Alefgard,2016,Role-Playing,Square Enix,0.0,0.0,0.31,0.0,0.31
+50.0,The LEGO Movie Videogame,2014,Action-Adventure,Warner Bros. Interactive Entertainment,0.04,0.2,0.0,0.07,0.31
+51.0,Lego Batman 3: Beyond Gotham,2014,Action,Warner Bros. Interactive Entertainment,0.05,0.19,0.0,0.07,0.31
+52.0,Sword Art Online: Hollow Fragment,2014,Misc,Namco Bandai Games,0.0,0.0,0.3,0.0,0.3
+53.0,Disgaea 3: Absence of Detention,2011,Role-Playing,Nippon Ichi Software,0.11,0.06,0.07,0.04,0.29
+54.0,Sly Cooper: Thieves in Time,2013,Misc,Sony Computer Entertainment Europe,0.13,0.07,0.0,0.07,0.27
+55.0,LEGO Jurassic World,2015,Action,Warner Bros. Interactive Entertainment,0.05,0.16,0.0,0.06,0.27
+56.0,Ninja Gaiden Sigma,2012,Action,Tecmo Koei,0.12,0.06,0.04,0.04,0.26
+57.0,Asphalt: Injection,2011,Racing,Konami,0.14,0.07,0.0,0.05,0.26
+58.0,Sword Art Online: Hollow Realization,2016,Role-Playing,Namco Bandai Games,0.0,0.08,0.16,0.02,0.26
+59.0,The Legend of Heroes: Sen no Kiseki II,2014,Misc,NIS America,0.06,0.04,0.13,0.03,0.26
+60.0,Dynasty Warriors Vita,2011,Action,Tecmo Koei,0.05,0.07,0.11,0.03,0.26
+61.0,The Legend of Heroes: Sen no Kiseki,2013,Misc,NIS America,0.05,0.03,0.14,0.03,0.25
+62.0,Dragon Quest Heroes II: Twin Kings and the Prophecy's End,2016,Action,Square Enix,0.0,0.0,0.25,0.0,0.25
+63.0,Jikkyou Powerful Pro Baseball 2016,2016,Sports,Konami Digital Entertainment,0.0,0.0,0.25,0.0,0.25
+64.0,Ys: Foliage Ocean in Celceta,2012,Misc,Nihon Falcom Corporation,0.1,0.01,0.1,0.04,0.25
+65.0,Lumines: Electronic Symphony ,2012,Misc,Ubisoft,0.09,0.1,0.01,0.05,0.24
+66.0,Toukiden Extreme,2014,Misc,Tecmo Koei,0.03,0.02,0.18,0.02,0.24
+67.0,Muramasa: The Demon Blade,2013,Action-Adventure,Marvelous Entertainment,0.11,0.0,0.1,0.04,0.24
+68.0,God of War Collection,2014,Action,Sony Computer Entertainment,0.1,0.07,0.02,0.05,0.24
+69.0,Next Hatsune Miku: Project Diva,2012,Misc,Sega,0.0,0.0,0.23,0.0,0.23
+70.0,Martian Chess,2014,Misc,Marvelous Interactive,0.11,0.01,0.06,0.04,0.23
+71.0,Soul Sacrifice Delta,2014,Misc,Sony Computer Entertainment,0.0,0.08,0.12,0.02,0.23
+72.0,Dungeon Hunter Alliance,2012,Action,Ubisoft,0.08,0.11,0.0,0.04,0.23
+73.0,Silent Hill: Book of Memories,2012,Misc,Konami Digital Entertainment,0.11,0.06,0.0,0.05,0.23
+74.0,Senran Kagura: Estival Versus,2015,Action,Marvelous Interactive,0.04,0.03,0.1,0.05,0.22
+75.0,Danganronpa Another Episode: Ultra Despair Girls,2014,Shooter,NIS America,0.06,0.01,0.12,0.02,0.22
+76.0,Project Versus J,2014,Misc,Namco Bandai Games,0.0,0.03,0.17,0.01,0.21
+77.0,Kan Colle Kai,2016,Action,Kadokawa Games,0.0,0.0,0.21,0.0,0.21
+78.0,Street Fighter x Tekken,2012,Fighting,Capcom,0.1,0.05,0.01,0.04,0.21
+79.0,LEGO Harry Potter: Years 5-7,2012,Action,Warner Bros. Interactive Entertainment,0.07,0.09,0.0,0.04,0.2
+80.0,MLB 12: The Show,2012,Sports,Sony Computer Entertainment,0.17,0.0,0.0,0.03,0.2
+81.0,3rd Super Robot Wars Z: Tengoku-Hen,2015,Action,Namco Bandai Games,0.0,0.0,0.2,0.0,0.2
+82.0,God Eater Resurrection,2015,Action,Namco Bandai Games,0.0,0.0,0.2,0.0,0.2
+83.0,Odin Sphere: Leifthrasir,2016,Role-Playing,NIS America,0.05,0.02,0.1,0.02,0.19
+84.0,New Danganronpa V3: Minna no Koroshiai Shin Gakki,2017,Adventure,NIS America,0.02,0.01,0.15,0.01,0.19
+85.0,Phantasy Star Nova,2014,Misc,Sega,0.0,0.0,0.19,0.0,0.19
+86.0,LEGO Marvel's Avengers,2016,Action,Warner Bros. Interactive Entertainment,0.03,0.12,0.0,0.04,0.19
+87.0,3rd Super Robot Wars Z Jigoku Hen,2014,Misc,Namco Bandai Games,0.0,0.0,0.19,0.0,0.19
+88.0,Tokyo Xanadu,2015,Role-Playing,Aksys Games,0.02,0.0,0.16,0.01,0.19
+89.0,Valhalla Knights 3,2013,Misc,Xseed Games,0.04,0.01,0.12,0.02,0.18
+90.0,Ridge Racer,2011,Racing,Namco Bandai,0.03,0.08,0.05,0.02,0.18
+91.0,Conception II: Shichisei no Michibiki to Mazuru no Akumu,2013,Misc,Screenlife,0.11,0.0,0.04,0.04,0.18
+92.0,Digimon Story: Cyber Sleuth,2015,Role-Playing,Namco Bandai Games,0.0,0.0,0.18,0.0,0.18
+93.0,Mobile Suit Gundam: Extreme VS Force,2015,Action,Namco Bandai Games,0.0,0.0,0.18,0.0,0.18
+94.0,Hatsune Miku: Project Diva X,2016,Misc,Sega,0.05,0.0,0.12,0.02,0.18
+95.0,One Piece: Pirate Warriors 3,2015,Action,Namco Bandai Games,0.0,0.03,0.14,0.01,0.18
+96.0,Lego Star Wars: The Force Awakens,2016,Action-Adventure,Warner Bros. Interactive Entertainment,0.02,0.1,0.02,0.03,0.18
+97.0,Super Dangan-Ronpa 2: Sayonara Zetsubou Gakuen,2014,Adventure,NIS America,0.08,0.05,0.0,0.04,0.18
+98.0,Demon Gaze,2013,Misc,NIS America,0.04,0.03,0.09,0.02,0.17
+99.0,Valkyrie Drive: Bhikkhuni,2015,Action,PQube,0.0,0.05,0.11,0.01,0.17
+100.0,Phantasy Star Online 2,2013,Misc,Sega,0.0,0.0,0.17,0.0,0.17
+101.0,Akiba's Trip 2,2013,Misc,NIS America,0.04,0.02,0.08,0.02,0.16
+102.0,Rayman Legends,2014,Platform,Ubisoft,0.01,0.12,0.0,0.03,0.16
+103.0,Legends of Chima: Laval's Journey,2013,Misc,Warner Bros. Interactive Entertainment,0.01,0.11,0.0,0.04,0.16
+104.0,Yomawari,2015,Adventure,NIS America,0.05,0.02,0.07,0.02,0.16
+105.0,Disgaea 4: A Promise Unforgotten,2014,Misc,NIS America,0.03,0.03,0.08,0.02,0.16
+106.0,Shinobido 2,2011,Action,Spike,0.05,0.06,0.02,0.03,0.16
+107.0,LEGO The Hobbit,2014,Action-Adventure,Warner Bros. Interactive Entertainment,0.02,0.1,0.0,0.03,0.16
+108.0,Gundam Breaker 2,2014,Action,Namco Bandai Games,0.0,0.0,0.16,0.0,0.16
+109.0,Chou Megami Shinkou Noire Gekishin Black Heart,2014,Misc,Idea Factory,0.06,0.01,0.06,0.02,0.15
+110.0,Over My Dead Body 2,2014,Misc,Sony Computer Entertainment,0.0,0.0,0.15,0.0,0.15
+111.0,The Walking Dead: A Telltale Games Series,2013,Misc,Square Enix,0.1,0.0,0.01,0.04,0.15
+112.0,Toukiden 2,2016,Action,Tecmo Koei,0.02,0.0,0.13,0.01,0.15
+113.0,Dengeki Bunko Fighting Climax,2014,Fighting,Sega,0.05,0.0,0.08,0.02,0.15
+114.0,One Piece Unlimited World: Red,2014,Misc,Namco Bandai Games,0.04,0.04,0.04,0.03,0.15
+115.0,Fate/Extella: The Umbral Star,2016,Action,PQube,0.03,0.0,0.1,0.01,0.15
+116.0,Attack on Titan (KOEI),2016,Action,Tecmo Koei,0.0,0.0,0.15,0.0,0.15
+117.0,LEGO Ninjago: Shadow of Ronin,2015,Action,Warner Bros. Interactive Entertainment,0.01,0.11,0.0,0.03,0.15
+118.0,MLB 13: The Show,2013,Sports,Sony Computer Entertainment,0.11,0.0,0.0,0.04,0.15
+119.0,Pro Baseball Spirits 2015,2015,Action,Konami Digital Entertainment,0.0,0.0,0.14,0.0,0.14
+120.0,F1 2011,2011,Racing,Codemasters,0.03,0.08,0.01,0.02,0.14
+121.0,Steins;Gate 0,2015,Adventure,PQube,0.0,0.07,0.06,0.02,0.14
+122.0,The Walking Dead: Season Two,2014,Misc,Telltale Games,0.08,0.01,0.02,0.03,0.14
+123.0,Gundam Breaker 3,2016,Action,Namco Bandai Games,0.0,0.0,0.14,0.0,0.14
+124.0,Ys VIII: Lacrimosa of Dana,2016,Role-Playing,NIS America,0.01,0.01,0.11,0.01,0.14
+125.0,Kagero: Darkside Princess,2014,Misc,Tecmo Koei,0.02,0.03,0.07,0.02,0.14
+126.0,Touch My Katamari ,2011,Misc,Namco Bandai Games,0.07,0.04,0.0,0.03,0.14
+127.0,Hyperdimension Neptunia,2013,Misc,Compile Heart,0.05,0.0,0.07,0.02,0.14
+128.0,Resident Evil: Revelations 2,2015,Action,Capcom,0.0,0.04,0.08,0.01,0.13
+129.0,Injustice: Gods Among Us,2013,Fighting,Warner Bros. Interactive Entertainment,0.09,0.0,0.0,0.03,0.13
+130.0,Makai Shin Trillion,2014,Misc,Idea Factory,0.04,0.01,0.07,0.02,0.13
+131.0,Reality Fighters,2012,Fighting,Sony Computer Entertainment,0.05,0.06,0.0,0.03,0.13
+132.0,Hyperdimension Neptunia U: Action Unleashed,2014,Action,Idea Factory International,0.04,0.01,0.06,0.02,0.13
+133.0,MegaTagmension Blanc + Neptune VS Zombies,2015,Action,Idea Factory International,0.04,0.01,0.06,0.02,0.13
+134.0,Super Robot Wars V,2017,Misc,Namco Bandai Games,0.0,0.0,0.13,0.0,0.13
+135.0,Shin Dynasty Warriors Gundam,2013,Misc,Namco Bandai Games,0.0,0.0,0.13,0.0,0.13
+136.0,Assassin's Creed Chronicles,2016,Action,Ubisoft,0.01,0.07,0.02,0.02,0.12
+137.0,Kidou Senshi Gundam Seed Battle Destiny,2012,Misc,Bandai Namco Games,0.0,0.0,0.12,0.0,0.12
+138.0,Jikkyou Powerful Pro Yakyuu 2014,2014,Sports,Konami Digital Entertainment,0.0,0.0,0.12,0.0,0.12
+139.0,One Piece: Pirate Warriors 2,2013,Action,Namco Bandai Games,0.0,0.0,0.12,0.0,0.12
+140.0,Football Manager 2014,2013,Sports,Sega,0.0,0.1,0.0,0.03,0.12
+141.0,Love Live! School Idol Paradise,2014,Misc,Kadokawa Games,0.0,0.0,0.12,0.0,0.12
+142.0,Tokyo New World Record: Operation Abyss,2014,Misc,NIS America,0.04,0.01,0.06,0.01,0.12
+143.0,SD Gundam G Generation Genesis,2016,Strategy,Namco Bandai Games,0.0,0.0,0.12,0.0,0.12
+144.0,Dynasty Warriors 8: Xtreme Legends,2013,Misc,Tecmo Koei,0.03,0.03,0.05,0.02,0.12
+145.0,Dungeon Travelers 2: The Royal Library & The Monster Seal,2014,Role-Playing,Atlus,0.03,0.02,0.05,0.02,0.12
+146.0,Dragon Ball Z: Battle of Z,2014,Misc,Namco Bandai Games,0.0,0.05,0.06,0.01,0.12
+147.0,Code:Realize - Sousei no Himegimi,2014,Adventure,Idea Factory,0.06,0.0,0.03,0.02,0.12
+148.0,Fate/hollow ataraxia,2014,Misc,Type-Moon,0.0,0.0,0.12,0.0,0.12
+149.0,BlazBlue: Continuum Shift II Plus,2011,Fighting,Arc System Works,0.03,0.05,0.02,0.02,0.12
+150.0,Mind 0,2013,Misc,GungHo,0.05,0.0,0.04,0.02,0.12
+151.0,MLB 14 The Show,2014,Sports,Sony Computer Entertainment America,0.09,0.0,0.0,0.03,0.12
+152.0,One Piece: Burning Blood,2016,Fighting,Namco Bandai Games,0.0,0.02,0.09,0.01,0.12
+153.0,SaGa: Scarlet Grace,2016,Role-Playing,Square Enix,0.0,0.0,0.11,0.0,0.11
+154.0,Utawarerumono: Itsuwari no Kamen,2015,Adventure,Deep Silver,0.02,0.0,0.08,0.01,0.11
+155.0,Zero Escape: Zero Time Dilemma,2016,Adventure,Aksys Games,0.06,0.0,0.04,0.02,0.11
+156.0,Samurai Warriors 4,2014,Misc,Tecmo Koei,0.0,0.0,0.11,0.0,0.11
+157.0,Digimon World: Next Order,2016,Action,Namco Bandai Games,0.0,0.0,0.11,0.0,0.11
+158.0,Taiko no Tatsujin: V Version,2015,Action,Namco Bandai Games,0.0,0.0,0.11,0.0,0.11
+159.0,Girls und Panzer: I Will Master Tankery,2014,Misc,Namco Bandai Games,0.0,0.0,0.1,0.0,0.1
+160.0,Army Corps of Hell,2011,Action,Square Enix,0.04,0.04,0.0,0.02,0.1
+161.0,Terraria,2013,Action-Adventure,Screenlife,0.0,0.01,0.09,0.0,0.1
+162.0,Hyperdimension Neptunia Re;Birth 3,2014,Action,Idea Factory International,0.05,0.02,0.0,0.02,0.1
+163.0,Steins;Gate,2013,Adventure,PQube,0.04,0.04,0.0,0.02,0.1
+164.0,Lord of Apocalypse,2011,Role-Playing,Square Enix,0.0,0.0,0.1,0.0,0.1
+165.0,Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta,2012,Misc,Gust,0.0,0.0,0.1,0.0,0.1
+166.0,Michael Jackson The Game,2011,Misc,Ubisoft,0.04,0.04,0.0,0.02,0.1
+167.0,Tales of Innocence,2012,Role-Playing,Namco Bandai,0.0,0.0,0.1,0.0,0.1
+168.0,Jikkyou Powerful Pro Yakyuu 2013,2013,Misc,Konami Digital Entertainment,0.0,0.0,0.1,0.0,0.1
+169.0,Dead or Alive 5,2013,Fighting,Tecmo Koei,0.0,0.06,0.03,0.02,0.1
+170.0,Utawarerumono: Futari no Hakuoro,2016,Misc,Atlus,0.01,0.0,0.08,0.0,0.1
+171.0,Hyperdimension Idol Neptunia PP,2013,Misc,Namco Bandai Games,0.02,0.02,0.04,0.01,0.1
+172.0,Gundam Breaker,2013,Misc,Namco Bandai Games,0.0,0.0,0.1,0.0,0.1
+173.0,Supremacy MMA,2012,Fighting,505 Games,0.02,0.05,0.0,0.02,0.1
+174.0,Lost Dimension,2014,Misc,NIS America,0.04,0.02,0.02,0.02,0.1
+175.0,Summon Night 6: Lost Borders,2016,Action,Gaijinworks,0.02,0.0,0.07,0.01,0.09
+176.0,Earth Defense Force 2: Invaders from Planet Space,2014,Action,Xseed Games,0.04,0.0,0.04,0.01,0.09
+177.0,Angry Birds: Star Wars,2013,Puzzle,Activision,0.03,0.04,0.0,0.02,0.09
+178.0,Invizimals: The Alliance,2013,Action-Adventure,Sony Computer Entertainment,0.0,0.07,0.0,0.02,0.09
+179.0,Alien,2012,Misc,Gust,0.0,0.0,0.09,0.0,0.09
+180.0,Jikkyou Powerful Pro Yakyuu 2012,2012,Misc,Konami Digital Entertainment,0.0,0.0,0.09,0.0,0.09
+181.0,Exist Archive: The Other Side of the Sky,2015,Role-Playing,Aksys Games,0.02,0.0,0.06,0.01,0.09
+182.0,Grand Kingdom,2015,Role-Playing,NIS America,0.02,0.01,0.05,0.01,0.09
+183.0,Criminal Girls 2,2015,Role-Playing,NIS America,0.03,0.01,0.03,0.01,0.09
+184.0,Yoru no Nai Kuni,2015,Role-Playing,Tecmo Koei,0.0,0.0,0.08,0.0,0.08
+185.0,BlazBlue Chronophantasma,2014,Misc,Arc System Works,0.04,0.0,0.03,0.01,0.08
+186.0,The Legend of Heroes: Trails in the Sky First Chapter,2015,Role-Playing,Kadokawa Shoten,0.0,0.0,0.08,0.0,0.08
+187.0,Mato Kurenai Yuugekitai : Tokyo Twilight Ghosthunters,2014,Misc,Aksys Games,0.04,0.01,0.02,0.01,0.08
+188.0,Gekijouban Madoka Magicka: The Battle Pentagram,2013,Misc,Namco Bandai Games,0.0,0.0,0.08,0.0,0.08
+189.0,Root Letter,2016,Adventure,PQube,0.0,0.04,0.03,0.01,0.08
+190.0,IA/VT Colorful,2015,Misc,Marvelous Entertainment,0.0,0.0,0.08,0.0,0.08
+191.0,Genkai Totsuki Moero Chronicle,2014,Misc,Compile Heart,0.0,0.0,0.08,0.0,0.08
+192.0,Accel World vs. Sword Art Online: Millennium Twilight,2017,Action,Namco Bandai Games,0.0,0.0,0.08,0.0,0.08
+193.0,Disney Infinity 2.0: Marvel Super Heroes,2015,Action-Adventure,Disney Interactive Studios,0.0,0.06,0.0,0.02,0.08
+194.0,Child of Light,2014,Role-Playing,Ubisoft,0.0,0.05,0.02,0.01,0.08
+195.0,AKB1/149: Love Election,2012,Misc,Namco Bandai Games,0.0,0.0,0.07,0.0,0.07
+196.0,PhotoKano,2013,Misc,Kadokawa Shoten,0.0,0.0,0.07,0.0,0.07
+197.0,Warriors Orochi 3,2013,Misc,Tecmo Koei,0.0,0.0,0.07,0.0,0.07
+198.0,Soccer Tsuku: Pro Soccer Club o Tsukurou!,2013,Misc,Sega,0.0,0.0,0.07,0.0,0.07
+199.0,Hyperdimension Neptunia Victory,2014,Role-Playing,Compile Heart,0.0,0.0,0.07,0.0,0.07
+200.0,Chaos;Child,2015,Adventure,PQube,0.0,0.0,0.07,0.0,0.07
+201.0,Caligula,2016,Role-Playing,FuRyu,0.0,0.0,0.07,0.0,0.07
+202.0,Samurai Warriors Chronicles 3,2014,Action,Tecmo Koei,0.0,0.0,0.07,0.0,0.07
+203.0,Eiyuu Densetsu: Zero no Kiseki,2012,Misc,Falcom Corporation,0.0,0.0,0.07,0.0,0.07
+204.0,MotorStorm RC,2012,Racing,Sony Computer Entertainment,0.0,0.05,0.0,0.01,0.07
+205.0,Pro Yaky? Spirits 2014,2014,Misc,Konami Digital Entertainment,0.0,0.0,0.07,0.0,0.07
+206.0,Genkai Tokki: Moero Crystal,2015,Role-Playing,Compile Heart,0.0,0.0,0.07,0.0,0.07
+207.0,Miracle Girls Festival,2015,Misc,Sega,0.0,0.0,0.07,0.0,0.07
+208.0,Project Setsuna,2016,Role-Playing,Square Enix,0.0,0.0,0.07,0.0,0.07
+209.0,Natural Doctrine,2014,Misc,NIS America,0.02,0.01,0.03,0.01,0.07
+210.0,Bad Apple Wars,2015,Action,Aksys Games,0.02,0.0,0.04,0.01,0.07
+211.0,Atelier Sophie: The Alchemist of the Mysterious Book,2015,Role-Playing,Tecmo Koei,0.0,0.0,0.07,0.0,0.07
+212.0,Samurai Warriors 4: Empires,2015,Action,Tecmo Koei,0.0,0.0,0.07,0.0,0.07
+213.0,Mahouka Koukou no Rettousei: Out of Order,2014,Adventure,Namco Bandai Games,0.0,0.0,0.07,0.0,0.07
+214.0,Criminal Girls,2013,Misc,NIS America,0.01,0.01,0.04,0.01,0.07
+215.0,Bullet Girls,2014,Misc,D3Publisher,0.0,0.0,0.07,0.0,0.07
+216.0,Kangokutou Mary Skelter,2016,Role-Playing,Idea Factory,0.01,0.0,0.04,0.01,0.06
+217.0,Atelier Meruru: Alchemist of Arland 3,2013,Misc,Gust,0.0,0.0,0.06,0.0,0.06
+218.0,Genkai Tokki Monster Monpiece,2013,Misc,Idea Factory,0.0,0.0,0.06,0.0,0.06
+219.0, Dungeon Travelers 2-2: The Maiden Who Fell into Darkness and the Book of Beginnings,2017,Role-Playing,Aquaplus,0.0,0.0,0.06,0.0,0.06
+220.0,The Legend of Heroes: Ao no Kiseki,2014,Misc,Nihon Falcom Corporation,0.0,0.0,0.06,0.0,0.06
+221.0,Kamen Rider: Battride War Genesis,2016,Action,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+222.0,Saki: Zenkoku-hen,2015,Misc,Kaga Create,0.0,0.0,0.06,0.0,0.06
+223.0,Pro Yakyuu Spirits 2013,2013,Misc,Konami Digital Entertainment,0.0,0.0,0.06,0.0,0.06
+224.0,Chaos Rings III,2014,Role-Playing,Square Enix,0.0,0.0,0.06,0.0,0.06
+225.0,Omega Labyrinth,2015,Role-Playing,D3Publisher,0.0,0.0,0.06,0.0,0.06
+226.0,To Heart 2: Dungeon Travelers,2015,Adventure,Aqua Plus,0.0,0.0,0.06,0.0,0.06
+227.0,Earth Defense Force 2017 Portable,2012,Misc,D3Publisher,0.0,0.0,0.06,0.0,0.06
+228.0,MeiQ no Chika Ni Shisu: A Maze to Eradicate Them All,2015,Role-Playing,Idea Factory,0.02,0.01,0.02,0.01,0.06
+229.0,Luminous Arc Infinity,2015,Action,Marvel Entertainment,0.0,0.0,0.06,0.0,0.06
+230.0,Uta no Prince-Sama: Music 3,2016,Action,Broccoli,0.0,0.0,0.06,0.0,0.06
+231.0,Stranger of Sword City,2015,Role-Playing,NIS America,0.04,0.01,0.0,0.02,0.06
+232.0,Puyo Puyo Tetris,2014,Misc,Sega,0.0,0.0,0.06,0.0,0.06
+233.0,Shiren the Wanderer 5 Plus: Fortune Tower and the Dice of Fate,2015,Action,Aksys Games,0.01,0.0,0.04,0.01,0.06
+234.0,Samurai Warriors 4-II,2015,Action,Tecmo Koei,0.0,0.0,0.06,0.0,0.06
+235.0,Tokyo Ghoul: Jail,2015,Racing,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+236.0,Valkyria: Azure Revolution,2017,Role-Playing,Sega,0.0,0.0,0.06,0.0,0.06
+237.0,Nobunaga's Ambition: Creation,2014,Misc,Tecmo Koei,0.0,0.0,0.06,0.0,0.06
+238.0,Refrain no Chika Meikyuu to Majo no Ryodan,2016,Action,Nippon Ichi Software,0.0,0.0,0.06,0.0,0.06
+239.0,Pro Yakyuu Spirits 2012,2012,Misc,Konami Digital Entertainment,0.0,0.0,0.06,0.0,0.06
+240.0,Bullet Girls 2,2016,Action,D3Publisher,0.0,0.0,0.06,0.0,0.06
+241.0,Fate/stay night [R�alta Nua],2012,Misc,Kadokawa Shoten,0.0,0.0,0.06,0.0,0.06
+242.0,Gal Gun: Double Peace,2015,Action,PQube,0.0,0.03,0.01,0.01,0.06
+243.0,Nobunaga's Ambition: Sphere of Influence - Sengoku Risshiden,2016,Misc,Tecmo Koei,0.0,0.0,0.06,0.0,0.06
+244.0,Hyperdimension Neptunia Re;Birth 2,2014,Action,Idea Factory International,0.03,0.01,0.0,0.01,0.05
+245.0,Demon Gaze 2,2016,Role-Playing,NIS America,0.01,0.0,0.04,0.0,0.05
+246.0,Period Cube: Torikago no Amadeus,2016,Action,Idea Factory,0.02,0.0,0.03,0.01,0.05
+247.0,Super Heroine Chronicle,2014,Misc,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
+248.0,New Tokyo Legacy: Operation Babel,2015,Role-Playing,NIS America,0.01,0.0,0.04,0.0,0.05
+249.0,Collar x Malice,2016,Action,Aksys Games,0.01,0.0,0.03,0.01,0.05
+250.0,Macross ? Scramble,2016,Action,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
+251.0,New Hayarigami,2014,Visual Novel,Nippon Ichi Software,0.0,0.0,0.05,0.0,0.05
+252.0,Atelier Escha & Logy: Alchemists of the Dusk Sky,2015,Role-Playing,Tecmo Koei,0.0,0.0,0.05,0.0,0.05
+253.0,Atelier Rorona: Alchemist of Arland,2013,Misc,NIS America,0.0,0.0,0.05,0.0,0.05
+254.0,Gakusen Toshi Asterisk Festa: Houka Kenran,2016,Fighting,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
+255.0,Atelier Shallie Plus: Alchemists of the Dusk Sea,2016,Role-Playing,Tecmo Koei,0.0,0.0,0.05,0.0,0.05
+256.0,Atelier Ayesha: The Alchemist of the Land of Twilight,2014,Role-Playing,Tecmo Koei,0.0,0.0,0.05,0.0,0.05
+257.0,To Love-Ru Trouble Darkness: Battle Ecstasy,2014,Misc,FuRyu,0.0,0.0,0.05,0.0,0.05
+258.0,Dead or Alive Xtreme 3: Venus,2016,Sports,Tecmo Koei,0.0,0.0,0.05,0.0,0.05
+259.0,Time Travelers,2012,Adventure,Level 5,0.0,0.0,0.05,0.0,0.05
+260.0,Shin Kamaitachi no Yoru: 11 Hitome no Suspect,2011,Adventure,ChunSoft,0.0,0.0,0.05,0.0,0.05
+261.0,Hakuouki SSL: Sweet School Life,2014,Misc,Idea Factory,0.0,0.0,0.05,0.0,0.05
+262.0,Ray Gigant,2015,Role-Playing,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
+263.0,Hyperdimension Neptunia mk2,2014,Misc,Compile Heart,0.0,0.0,0.05,0.0,0.05
+264.0,Ao no Kanata no Four Rhythm,2016,Visual Novel,Sprite,0.0,0.0,0.05,0.0,0.05
+265.0,Yuki Yuna is a Hero: Memory of the Forest,2015,Action,FuRyu,0.0,0.0,0.05,0.0,0.05
+266.0,Musou Stars,2017,Action,Tecmo Koei,0.0,0.0,0.04,0.0,0.04
+267.0,God Wars: Future Past,2017,Role-Playing,NIS America,0.01,0.0,0.03,0.0,0.04
+268.0,World Trigger: Borderless Mission,2015,Action,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
+269.0,Tsurugi no Machi no Ihoujin: Kuro no Kyuuden,2015,Role-Playing,Experience Inc.,0.0,0.0,0.04,0.0,0.04
+270.0,Darius Burst: Chronicle Saviours,2016,Action,Kadokawa Games,0.0,0.0,0.04,0.0,0.04
+271.0,Ben 10 Galactic Racing,2012,Misc,D3Publisher,0.02,0.02,0.0,0.01,0.04
+272.0,Genkai Tokki: Seven Pirates,2016,Role-Playing,Compile Heart,0.0,0.0,0.04,0.0,0.04
+273.0,Kenka Bancho Otome,2016,Action,Screenlife,0.0,0.0,0.04,0.0,0.04
+274.0,Arcana Heart 3,2014,Misc,Arc System Works,0.02,0.0,0.02,0.01,0.04
+275.0,Uta no Prince-Sama: Repeat Love,2017,Adventure,Broccoli,0.0,0.0,0.04,0.0,0.04
+276.0,Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. Zoku,2016,Adventure,5pb,0.0,0.0,0.04,0.0,0.04
+277.0,The Idolm@ster: Must Songs - Red Board / Blue Board,2015,Misc,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
+278.0,Little Battlers eXperience W,2012,Misc,Level 5,0.0,0.0,0.04,0.0,0.04
+279.0,Aegis of Earth: Protonovus Assault,2016,Action,PQube,0.01,0.02,0.0,0.01,0.04
+280.0,Forza Motorsport 4: December IGN Pack,2014,Misc,Telltale Games,0.03,0.0,0.0,0.01,0.04
+281.0,MLB 15: The Show,2015,Sports,Sony Computer Entertainment,0.03,0.0,0.0,0.01,0.04
+282.0,Renai Revenge,2015,Adventure,TGL,0.0,0.0,0.04,0.0,0.04
+283.0,XBLAZE Code: Embryo,2013,Misc,Arc System Works,0.02,0.0,0.01,0.01,0.04
+284.0,Diabolik Lovers: Lunatic Parade,2016,Adventure,Idea Factory,0.0,0.0,0.04,0.0,0.04
+285.0,Amagami,2014,Misc,Kadokawa Games,0.0,0.0,0.04,0.0,0.04
+286.0,Yuusha Shisu.,2016,Role-Playing,Nippon Ichi Software,0.0,0.0,0.04,0.0,0.04
+287.0,Ar Nosurge: Ode to an Unborn Star,2014,Role-Playing,Tecmo Koei,0.0,0.0,0.04,0.0,0.04
+288.0,Airship Q,2015,Platform,Cygames,0.0,0.0,0.04,0.0,0.04
+289.0,The Legend of Heroes: Trails in the Sky SC Evolution,2015,Role-Playing,Kadokawa Games,0.0,0.0,0.04,0.0,0.04
+290.0,Sengoku Otome: Legend Battle,2016,Action,Unknown,0.0,0.0,0.04,0.0,0.04
+291.0,Alia's Carnival! Sacrament,2015,Adventure,Dramatic Create,0.0,0.0,0.04,0.0,0.04
+292.0,Ou to Maou to 7-nin no Himegimitachi: Shin Ousama Monogatari,2012,Misc,Konami Digital Entertainment,0.0,0.0,0.04,0.0,0.04
+293.0,Diabolik Lovers: Dark Fate,2015,Action,Idea Factory,0.0,0.0,0.04,0.0,0.04
+294.0,The Legend of Heroes: Trails in the Sky Third Chapter,2016,Role-Playing,Nihon Falcom Corporation,0.0,0.0,0.04,0.0,0.04
+295.0,Reco Love: Blue Ocean,2016,Adventure,Kadokawa Games,0.0,0.0,0.04,0.0,0.04
+296.0,Winning Post 8 ,2014,Misc,Tecmo Koei,0.0,0.0,0.04,0.0,0.04
+297.0,Super Hero Generation,2014,Role-Playing,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
+298.0,Atelier Firis: The Alchemist of the Mysterious Journey,2016,Role-Playing,Tecmo Koei,0.0,0.0,0.04,0.0,0.04
+299.0,Hakuoki Zuisouroku Omokage Hana,2015,Action,Idea Factory,0.0,0.0,0.04,0.0,0.04
+300.0,Hyakka Hyakurou: Sengoku Ninpoujou,2016,Adventure,D3Publisher,0.0,0.0,0.04,0.0,0.04
+301.0,Blue Reflection: Maboroshi ni Mau - Shoujo no Ken,2017,Action,Tecmo Koei,0.0,0.0,0.04,0.0,0.04
+302.0,A Good Librarian Like a Good Shepherd: Library Party,2015,Action,Kaga Create,0.0,0.0,0.04,0.0,0.04
+303.0,Digimon Story: Cyber Sleuth - Hacker's Memory,2017,Role-Playing,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
+304.0,Psycho-Pass: Mandatory Happiness,2016,Adventure,NIS America,0.0,0.01,0.02,0.0,0.04
+305.0,Rose to Tasogare no Kojou,2016,Action,Nippon Ichi Software,0.0,0.0,0.04,0.0,0.04
+306.0,Ebikore Photo Kano Kiss ,2015,Action,Kadokawa Games,0.0,0.0,0.04,0.0,0.04
+307.0,Kisuato,2015,Adventure,TGL,0.0,0.0,0.04,0.0,0.04
+308.0,Himoutou! Umaru-Chan: Himoutou Ikusei Keikaku,2015,Simulation,FuRyu,0.0,0.0,0.04,0.0,0.04
+309.0,Hakuoki: Shinkai - Hana no Shou,2016,Adventure,Idea Factory,0.0,0.0,0.04,0.0,0.04
+310.0,Hyperdimension Neptunia Vs. Sega Hard Girls: Yume no Gattai Special,2015,Role-Playing,Compile Heart,0.0,0.0,0.04,0.0,0.04
+311.0,Higurashi no Naku Koro ni Iki,2015,Action,Kaga Create,0.0,0.0,0.03,0.0,0.03
+312.0,Superdimension Neptune vs Sega Hard Girls,2016,Role-Playing,Idea Factory International,0.0,0.03,0.0,0.01,0.03
+313.0,OZMAFIA!! -vivace-,2015,Adventure,Dramatic Create,0.0,0.0,0.03,0.0,0.03
+314.0,Great Edo Blacksmith,2014,Adventure,Nippon Ichi Software,0.0,0.0,0.03,0.0,0.03
+315.0,Akiba's Beat,2017,Action,PQube,0.02,0.0,0.0,0.01,0.03
+316.0,Parfait,2015,Adventure,TGL,0.0,0.0,0.03,0.0,0.03
+317.0,Uppers,2016,Action,Marvelous Entertainment,0.0,0.0,0.03,0.0,0.03
+318.0,Coven and Labyrinth of Refrain,2016,Action,Nippon Ichi Software,0.0,0.0,0.03,0.0,0.03
+319.0,Rugby 15,2015,Sports,Bigben Interactive,0.0,0.03,0.0,0.01,0.03
+320.0,Harukanaru Toki no Naka de 6,2015,Action,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+321.0,Shantae: Half-Genie Hero,2016,Platform,Xseed Games,0.02,0.0,0.0,0.01,0.03
+322.0,Looney Tunes: Galactic Sports,2015,Action,Sony Computer Entertainment,0.0,0.03,0.0,0.01,0.03
+323.0,La Corda d'Oro 4,2016,Action,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+324.0,Super Robot Taisen OG Saga: Masou Kishin III - Pride of Justice,2013,Misc,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
+325.0,WRC 5: FIA World Rally Championship,2015,Sports,Bigben Interactive,0.0,0.03,0.0,0.01,0.03
+326.0,Sei Madou Monogatari,2013,Misc,Rising Star Games,0.0,0.0,0.03,0.0,0.03
+327.0,Shin Hayarigami 2,2016,Adventure,Nippon Ichi Software,0.0,0.0,0.03,0.0,0.03
+328.0,Infinite Stratos 2: Ignition Hearts,2014,Misc,5pb,0.0,0.0,0.03,0.0,0.03
+329.0,Exstetra,2013,Misc,FuRyu,0.0,0.0,0.03,0.0,0.03
+330.0,Fortune Street: Dragon Quest & Final Fantasy 30th Anniversary,2017,Misc,Square Enix,0.0,0.0,0.03,0.0,0.03
+331.0,"Moshi, Kono Sekai ni Kami-sama ga Iru to suru Naraba.",N/A,Adventure,,0.0,0.0,0.03,0.0,0.03
+332.0,New Interpretation Stranger of Sword City,2016,Role-Playing,Experience Inc.,0.0,0.0,0.03,0.0,0.03
+333.0,Phantasy Star Online 2: Episode 3 Deluxe Package,2015,Action,Sega,0.0,0.0,0.03,0.0,0.03
+334.0,Nil Admirari no Tenbin: Teito Genwaku Toukidan,2016,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+335.0,Berserk and the Band of the Hawk,2016,Action,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+336.0,Nisekoi,2014,Misc,Konami Digital Entertainment,0.0,0.0,0.03,0.0,0.03
+337.0,Gochuumon wa Usagi Desu ka?? Wonderful Party!,2016,Adventure,5pb,0.0,0.0,0.03,0.0,0.03
+338.0,Omega Labyrinth Z,N/A,Role-Playing,,0.0,0.0,0.03,0.0,0.03
+339.0,Putty Squad,2013,Misc,System 3,0.01,0.01,0.0,0.01,0.03
+340.0,Sukitomo. Tsukiuta. 12 Memories,2017,Adventure,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
+341.0,Winning Post 8 2015,2015,Action,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+342.0,Taishou Moebius Line Vitable,2016,Adventure,Dramatic Create,0.0,0.0,0.03,0.0,0.03
+343.0,Shinsei Batteki Drive Girls,2017,Action,Rising Star Games,0.01,0.0,0.01,0.0,0.03
+344.0,Senjou no Waltz,2014,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+345.0,Samurai Warriors: Sanada Maru,2016,Action,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+346.0,Diabolik Lovers: Vandead Carnival,2014,Action,Idea Factory,0.0,0.0,0.03,0.0,0.03
+347.0,Net High,2015,Adventure,Marvelous Games,0.0,0.0,0.03,0.0,0.03
+348.0,Nobunaga's Ambition: Tenshouki with Power-Up Kit HD Version,2015,Strategy,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+349.0,Yomawari: Midnight Shadows,2017,Action,NIS America,0.0,0.0,0.03,0.0,0.03
+350.0,Storm Lover 2nd V,2016,Adventure,D3Publisher,0.0,0.0,0.03,0.0,0.03
+351.0,Ukiyo no Roushi,2015,Action,Unknown,0.0,0.0,0.03,0.0,0.03
+352.0,Senran Kagura: Bon App�tit!,2014,Misc,Marvelous Entertainment,0.0,0.0,0.03,0.0,0.03
+353.0,Dream Club Zero Portable,2011,Simulation,D3 Publisher,0.0,0.0,0.03,0.0,0.03
+354.0,Chou Ezaru wa Akai Hana: Koi wa Tsuki ni Shirube Kareru,2016,Action,Dramatic Create,0.0,0.0,0.03,0.0,0.03
+355.0,Labyrinth Cross Blood: Infinity,2013,Misc,CyberFront,0.0,0.0,0.03,0.0,0.03
+356.0,Diabolik Lovers: More Blood,2015,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+357.0,Wand of Fortune R,2016,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+358.0,AMNESIA World,2014,Misc,Idea Factory,0.0,0.0,0.03,0.0,0.03
+359.0,Dynasty Warriors 8: Empires,2015,Action,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+360.0,Wand of Fortune R2: Jikuu ni Shizumu Mokushiroku,2017,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+361.0,Dynasty Warriors: Eiketsuden,2016,Strategy,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+362.0,Hakuoki: Kyoto Winds,2017,Adventure,Idea Factory,0.02,0.0,0.0,0.01,0.03
+363.0,BlazBlue: Chrono Phantasma Extend,2015,Action,PQube,0.0,0.02,0.0,0.01,0.03
+364.0,Amatsumi Sora ni! Kumo no Hatate ni,2015,Adventure,Prototype,0.0,0.0,0.03,0.0,0.03
+365.0,Tsuki ni Yori Sou Otome no Sahou: Hidamari no Hibi,2015,Adventure,Dramatic Create,0.0,0.0,0.03,0.0,0.03
+366.0,Shitsuji ga Aruji o Erabu Toki,2016,Adventure,Unknown,0.0,0.0,0.03,0.0,0.03
+367.0,Zettai Kaikyuu Gakuen: Eden with Roses and Phantasm,2016,Adventure,Prototype,0.0,0.0,0.03,0.0,0.03
+368.0,MuvLuv Double Pack,2016,Adventure,5pb,0.0,0.0,0.03,0.0,0.03
+369.0,Norn + Nonette: Act Tune,2016,Action,Idea Factory,0.0,0.0,0.03,0.0,0.03
+370.0,Tokushu Houdoubu,2012,Misc,Nippon Ichi Software,0.0,0.0,0.03,0.0,0.03
+371.0,Harukanaru Toki no Naka de 3 Ultimate,2017,Adventure,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+372.0,Little Busters! Converted Edition,2012,Misc,Prototype,0.0,0.0,0.03,0.0,0.03
+373.0,Shiin,2017,Adventure,Experience Inc.,0.0,0.0,0.03,0.0,0.03
+374.0,Angelique Retour,2015,Action,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+375.0,Haitaka no Psychedelica,2016,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+376.0,Osomatsu-San: The Game - Hang-Up Finding Employment Advice - Dead or Work,2017,Adventure,Idea Factory,0.0,0.0,0.03,0.0,0.03
+377.0,Kyokugen Dasshutsu ADV: Zennin Shiboudesu,2012,Misc,ChunSoft,0.0,0.0,0.03,0.0,0.03
+378.0,Idol Death Game TV,2016,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+379.0,7'scarlet,2016,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+380.0,The Longest 5 Minutes,2016,Action,Nippon Ichi Software,0.0,0.0,0.02,0.0,0.02
+381.0,Strawberry Nauts,2016,Adventure,Unknown,0.0,0.0,0.02,0.0,0.02
+382.0,Otoko Yukaku,2015,Action,D3Publisher,0.0,0.0,0.02,0.0,0.02
+383.0,Yahari Game Demo Ore no Seishun Love-Kome Hamachi Gatteiru,2013,Misc,5pb,0.0,0.0,0.02,0.0,0.02
+384.0,Kyoukai no Shirayuki,2016,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02
+385.0,Ouma ga Toki: Kakuriyo no Enishi,2016,Action,Nippon Ichi Software,0.0,0.0,0.02,0.0,0.02
+386.0,Moujuu-Tachi to Ohimesama,2016,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02
+387.0,Lovely x Cation 1 & 2,2015,Action,5pb,0.0,0.0,0.02,0.0,0.02
+388.0,Taishou x Alice: All in One,2016,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+389.0,Suran Digit,2016,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+390.0,Sangoku Hime 4: Tenka Ryouran - Tenmei no Koi Emaki,2016,Action,SystemSoft Alpha,0.0,0.0,0.02,0.0,0.02
+391.0,Cross Ange: Tenshi to Ryuu no Rondo tr.,2015,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
+392.0,Maji-Kyun! Renaissance,2016,Adventure,Broccoli,0.0,0.0,0.02,0.0,0.02
+393.0,Prince of Stride,2015,Misc,Kadokawa Games,0.0,0.0,0.02,0.0,0.02
+394.0,Zero Escape The Nonary Games,2017,Adventure,Aksys Games,0.01,0.0,0.01,0.0,0.02
+395.0,Phantasy Star Online 2 Episode 4: Deluxe Package,2017,Role-Playing,Sega,0.0,0.0,0.02,0.0,0.02
+396.0,Dynamic Chord feat. Reve Parfait: V Edition,2016,Adventure,honeybee,0.0,0.0,0.02,0.0,0.02
+397.0,Yuukyuu no Tierblade: Lost Chronicle,2016,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+398.0,PuraMai Wars V,2016,Action,Unknown,0.0,0.0,0.02,0.0,0.02
+399.0,Geten no Hana with Yume Akari: Aizouban,2016,Adventure,Tecmo Koei,0.0,0.0,0.02,0.0,0.02
+400.0,To Love-Ru Trouble: Darkness - True Princess,2015,Action,FuRyu,0.0,0.0,0.02,0.0,0.02
+401.0,Uta Kumi 575,2014,Misc,Sega,0.0,0.0,0.02,0.0,0.02
+402.0,Hoshiori Yume Mirai: Converted Edition,2016,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+403.0,Abunai: Koi no Sousa Shitsu,2015,Action,Asgard,0.0,0.0,0.02,0.0,0.02
+404.0,Sangoku Koi Senki: Omoide Gaeshi - CS Edition,2016,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+405.0,Yunohana Spring! Cherishing Time,2016,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+406.0,Dance with Devils,N/A,Action,,0.0,0.0,0.02,0.0,0.02
+407.0,Bara ni Kakusareshi Verite,2016,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02
+408.0,Brothers Conflict: Precious Baby,2017,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02
+409.0,Sid Meier's Civilization Revolution 2+,2015,Strategy,Take-Two Interactive,0.0,0.0,0.02,0.0,0.02
+410.0,I Doll U,2015,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+411.0, Neo Atlas 1469,2016,Misc,ArtDink,0.0,0.0,0.02,0.0,0.02
+412.0,PriministAr,2016,Adventure,Entergram,0.0,0.0,0.02,0.0,0.02
+413.0,Grisaia no Rakuen: Le Eden de la Grisaia,2014,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+414.0,Plastic Memories,2016,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+415.0,Kaleidoeve,2015,Adventure,HuneX,0.0,0.0,0.02,0.0,0.02
+416.0,Meiji Toukyou Renka: Full Moon,2016,Action,5pb,0.0,0.0,0.02,0.0,0.02
+417.0,Clock Zero: Shuuen no Ichibyou - ExTime,2015,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02
+418.0,Root Infinity Rexx,2015,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+419.0,Hakuoki: Shinkai - Furi no Shou,2015,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02
+420.0,Uta no Prince-sama: Amazing Aria & Sweet Serenade Love,2017,Adventure,Broccoli,0.0,0.0,0.02,0.0,0.02
+421.0,Kimi o Aogi Otome wa Hime ni,2016,Adventure,Entergram,0.0,0.0,0.02,0.0,0.02
+422.0,Bakumatsu Rock: Ultra Soul,2014,Misc,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02
+423.0,ClaDun Sengoku,2017,Action,Nippon Ichi Software,0.0,0.0,0.02,0.0,0.02
+424.0,Kamigami no Asobi InFinite,2016,Adventure,Broccoli,0.0,0.0,0.02,0.0,0.02
+425.0,Samurai & Dragons,2012,Misc,Sega,0.0,0.0,0.02,0.0,0.02
+426.0,Kujiragami no Tearstilla,2016,Action,Piacci,0.0,0.0,0.02,0.0,0.02
+427.0,Hakuoki: Yuugi Roku - Taishitachi no Daienkai,2016,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+428.0,Psychedelica of the Black Butterfly,2015,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02
+429.0,Code: Realize - Shukufuku no Mirai,2016,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+430.0,Konoyo no Hate de Koi o Utau Shoujo: Yu-No,2017,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+431.0,PsychicEmotion6,2016,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+432.0,New Game! The Challenge Stage!,2017,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+433.0,Winning Post 8 2017,2017,Misc,Tecmo Koei,0.0,0.0,0.02,0.0,0.02
+434.0,Hakuoki: Shinkai Twin Pack,2016,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+435.0,Date-A-Live Twin Edition: Rio Reincarnation,2015,Action,Compile Heart,0.0,0.0,0.02,0.0,0.02
+436.0,Akai Suna Ochiru Tsuki,2016,Adventure,Dramatic Create,0.0,0.0,0.02,0.0,0.02
+437.0,Shiro to Kuro no Alice,2017,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+438.0,Astraea no Shiroki Eien: White Eternity,2016,Adventure,Dramatic Create,0.0,0.0,0.02,0.0,0.02
+439.0,Sousei no Onmyouji,2017,Adventure,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
+440.0,Disney Infinity,2013,Misc,Disney Interactive Studios,0.01,0.0,0.0,0.0,0.02
+441.0,Eve: Burst Error R,2016,Action,Red Flagship,0.0,0.0,0.02,0.0,0.02
+442.0,Diabolik Lovers: Lost Eden,2017,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+443.0,Robotics;Notes,2014,Misc,5pb,0.0,0.0,0.02,0.0,0.02
+444.0,Re:Zero - Kara Hajimeru Isekai Seikatsu - Death or Kiss,2017,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+445.0,Fuuraiki 3,2015,Action,Unknown,0.0,0.0,0.02,0.0,0.02
+446.0,Kadenz fermata//Akkord:fortissimo,2014,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+447.0,Xblaze: Lost Memories,2015,Adventure,Arc System Works,0.01,0.0,0.0,0.0,0.02
+448.0,Lumo,2016,Puzzle,Rising Star Games,0.0,0.01,0.0,0.0,0.02
+449.0,Air,2016,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+450.0,Shirogane x Spirits!,2016,Adventure,Technical Associates Inc,0.0,0.0,0.02,0.0,0.02
+451.0,Norn + Nonette: Last Era,2015,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02
+452.0,Kono Subarashii Sekai ni Shukufuku o! Kono Yokubukai Game ni Shinpan o!,2017,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+453.0,Flowers: Autumn Story,2016,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+454.0,Saka Agari Hurricane Portable,2017,Adventure,Entergram,0.0,0.0,0.02,0.0,0.02
+455.0,Romance of the Three Kingdoms 13 with Power-Up Kit,2017,Misc,Tecmo Koei,0.0,0.0,0.02,0.0,0.02
+456.0,Kiss Bell,2014,Adventure,Giga,0.0,0.0,0.02,0.0,0.02
+457.0,Gun Gun Pixies,2017,Adventure,Compile Heart,0.0,0.0,0.02,0.0,0.02
+458.0,Reine des Fleurs,2015,Action,Idea Factory,0.0,0.0,0.02,0.0,0.02
+459.0,Kamaitachi no Yoru: Rinne Saisei,2017,Adventure,5pb,0.0,0.0,0.02,0.0,0.02
+460.0,Saenai Kanojo no Sodatekata: Blessing Flowers,2015,Action,5pb,0.0,0.0,0.02,0.0,0.02
+461.0,Otome Riron to Sono Shuuhen: Bon Voyage,2016,Adventure,Dramatic Create,0.0,0.0,0.02,0.0,0.02
+462.0,Winning Post 7 2013,2013,Misc,Tecmo Koei,0.0,0.0,0.02,0.0,0.02
+463.0,Hyakka Yakou,2015,Action,Unknown,0.0,0.0,0.02,0.0,0.02
+464.0,Grisaia no Meikyuu: Le Labyrinthe de la Grisaia,2014,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+465.0,Winning Post 8 2016,2016,Simulation,Tecmo Koei,0.0,0.0,0.02,0.0,0.02
+466.0,White Album 2: Shiawase no Mukougawa,2013,Misc,Aqua Plus,0.0,0.0,0.02,0.0,0.02
+467.0,Ratchet & Clank Collection,2014,Platform,Sony Computer Entertainment,0.0,0.01,0.0,0.0,0.02
+468.0,Rugby World Cup 2015,2015,Sports,Ubisoft,0.0,0.01,0.0,0.0,0.02
+469.0,SpongeBob: HeroPants,2015,Platform,Activision,0.01,0.0,0.0,0.0,0.02
+470.0,Nil Admirari no Tenbin: Kuroyuri En'youtan,2017,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+471.0,Nights of Azure 2,2017,Action,Tecmo Koei,0.0,0.0,0.02,0.0,0.02
+472.0,Hiiro no Kakera: Omoi Iro no Kioku,2017,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+473.0,Marginal #4: Idol of Supernova,2014,Adventure,Idea Factory,0.0,0.0,0.02,0.0,0.02
+474.0,Rewrite,2014,Adventure,Prototype,0.0,0.0,0.02,0.0,0.02
+475.0,Hitotsu Tobashi Renai V,2015,Adventure,Kaga Create,0.0,0.0,0.02,0.0,0.02
+476.0,Minna to Issho,2011,Misc,Sony Computer Entertainment,0.0,0.0,0.02,0.0,0.02
+477.0,Durarara!! Relay,2015,Action,Kadokawa Games,0.0,0.0,0.02,0.0,0.02
+478.0,Tokyo Tattoo Girls,2017,Strategy,NIS America,0.01,0.0,0.0,0.0,0.02
+479.0,Harukanaru Toki no Naka de 6: Gentou Rondo,2016,Adventure,Tecmo Koei,0.0,0.0,0.02,0.0,0.02
+480.0,Girl Friend Beta: Kimi to Sugosu Natsuyasumi,2015,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
+481.0,Tokyo Clanpool,2017,Role-Playing,Compile Heart,0.0,0.0,0.02,0.0,0.02
+482.0,Hanayamata: Yosakoi Live,2014,Adventure,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
+483.0,Grisaia no Kajitsu: Side Episode,2017,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01
+484.0,Kurogane Kaikitan,2015,Adventure,Minato Station,0.0,0.0,0.01,0.0,0.01
+485.0,Ninja Gaiden Sigma 2,2013,Misc,Tecmo Koei,0.0,0.0,0.01,0.0,0.01
+486.0,Hana Oboro: Sengoku Denranki,2017,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+487.0,Princess is Money Hungry,2016,Role-Playing,Nippon Ichi Software,0.0,0.0,0.01,0.0,0.01
+488.0,Chaos;Head Noah,2014,Visual Novel,5pb,0.0,0.0,0.01,0.0,0.01
+489.0,Kenka Bancho Otome: Kanzenmuketsu no My Honey,2017,Adventure,Screenlife,0.0,0.0,0.01,0.0,0.01
+490.0,Infinite Stratos 2: Love and Purge,2015,Action,5pb,0.0,0.0,0.01,0.0,0.01
+491.0,Binary Star,2014,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+492.0,Axiom Verge,2017,Action,Badland Studio,0.01,0.0,0.0,0.0,0.01
+493.0,Irotoridori no Sekai: World's End Re-Birth,2015,Action,HuneX,0.0,0.0,0.01,0.0,0.01
+494.0, Black Wolves Saga: Weiss und Schwarz,2017,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+495.0,Skullgirls: 2nd Encore,2016,Fighting,Arc System Works,0.0,0.0,0.01,0.0,0.01
+496.0,Doki-Doki Universe,2013,Misc,Sony Computer Entertainment,0.0,0.01,0.0,0.0,0.01
+497.0,htoL #NiQ: Hotaru no Nikki,2014,Misc,Nippon Ichi Software,0.0,0.0,0.01,0.0,0.01
+498.0,World Election,2017,Adventure,Piacci,0.0,0.0,0.01,0.0,0.01
+499.0,English Detective Mysteria: The Crown,2016,Adventure,Karin Entertainment,0.0,0.0,0.01,0.0,0.01
+500.0,Ro-Kyu-Bu! Secret Photo Op,2014,Misc,Kadokawa Games,0.0,0.0,0.01,0.0,0.01
+501.0,Marginal 4: Road to Galaxy,2017,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+502.0,Nyaruko-San: Nafushigatai Game no You na Mono,2013,Misc,5pb,0.0,0.0,0.01,0.0,0.01
+503.0,MotoGP 14 ,2014,Misc,Milestone S.r.l.,0.0,0.01,0.0,0.0,0.01
+504.0,Nora to Koujo to Noraneko Heart,2017,Adventure,Harukaze,0.0,0.0,0.01,0.0,0.01
+505.0,Amnesia Later,2014,Misc,Idea Factory,0.0,0.0,0.01,0.0,0.01
+506.0,Dokuro,2012,Misc,GungHo,0.0,0.0,0.01,0.0,0.01
+507.0,Starry Sky: Spring Stories,2016,Adventure,honeybee,0.0,0.0,0.01,0.0,0.01
+508.0,"Kono Oozora ni, Tsubasa o Hirogete: Cruise Sign",2016,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+509.0,Occultic;Nine,2017,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+510.0,Chaos;Child: Love Chu Chu!!,2017,Visual Novel,5pb,0.0,0.0,0.01,0.0,0.01
+511.0,Dramatical Murder Re:code,2014,Misc,Nitroplus,0.0,0.0,0.01,0.0,0.01
+512.0,Hanasaku Manimani,2014,Adventure,5pb,0.0,0.0,0.01,0.0,0.01
+513.0,Sakura-Sou no Pet na Kanojo,2013,Misc,Kadokawa Games,0.0,0.0,0.01,0.0,0.01
+514.0,The Lost Child,2017,Action,Kadokawa Games,0.0,0.0,0.01,0.0,0.01
+515.0,Farming Simulator 2014,2014,Simulation,Focus Home Interactive,0.01,0.0,0.0,0.0,0.01
+516.0,Space Hulk,2015,Strategy,Funbox Media,0.0,0.01,0.0,0.0,0.01
+517.0,Golden Time: Vivid Memories,2014,Misc,ASCII Media Works,0.0,0.0,0.01,0.0,0.01
+518.0,Getsuei Gakuen: kou,2013,Misc,Arc System Works,0.0,0.0,0.01,0.0,0.01
+519.0,Flowers,2014,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01
+520.0,Tokyo Xanadu: Sakura Festival Package,2016,Role-Playing,Nihon Falcom Corporation,0.0,0.0,0.01,0.0,0.01
+521.0,"Shinobi, Koi Utsutsu: Kanmitsu Hana Emaki",2017,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+522.0,Ken ga Kimi: Momoyo Tsuzuri,2016,Adventure,Rejet,0.0,0.0,0.01,0.0,0.01
+523.0,Aiyoku no Eustia,2014,Misc,Dramatic Create,0.0,0.0,0.01,0.0,0.01
+524.0,Atelier Liddy and Soeur: Alchemists of the Mysterious Painting,2017,Role-Playing,Tecmo Koei,0.0,0.0,0.01,0.0,0.01
+525.0,"Shinobi, Koi Utsutsu: Setsugetsuka Koi Emaki",2015,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01
+526.0,Touhou Genso Wanderer Tod: Reloaded,2016,Role-Playing,Mediascape,0.0,0.0,0.01,0.0,0.01
+527.0,"Tsumigui: Sen no Noroi, Sen no Inori for V",2017,Adventure,Dramatic Create,0.0,0.0,0.01,0.0,0.01
+528.0,Wagamama High Spec,2017,Adventure,iMel,0.0,0.0,0.01,0.0,0.01
+529.0,Love of Renai Koutei of Love!,2017,Adventure,Entergram,0.0,0.0,0.01,0.0,0.01
+530.0,DJ Max Technika Tune,2012,Misc,CyberFront,0.0,0.0,0.01,0.0,0.01
+531.0,Taishou Mebiusline: Teito Bibouroku Hare,2017,Adventure,Dramatic Create,0.0,0.0,0.01,0.0,0.01
+532.0,Deception IV: The Nightmare Princess,2015,Action,Tecmo Koei,0.0,0.01,0.0,0.0,0.01
+533.0,Utsusemi no Mawari,2017,Adventure,Matatabi,0.0,0.0,0.01,0.0,0.01
+534.0,Hatsuyuki Sakura,2017,Adventure,Entergram,0.0,0.0,0.01,0.0,0.01
+535.0,Hakuoki: Reimeiroku - Omouhase Kara,2015,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01
+536.0,Yunohana Spring!,2015,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01
+537.0,Ayakashi Gohan: Oomori!,2015,Action,honeybee,0.0,0.0,0.01,0.0,0.01
+538.0,Possession Magenta,2015,Action,Unknown,0.0,0.0,0.01,0.0,0.01
+539.0,Farming Simulator 18,2017,Simulation,FuRyu Corporation,0.0,0.01,0.0,0.0,0.01
+540.0,Kajiri Kamui Kagura: Akebono no Hikari,2013,Misc,Views,0.0,0.0,0.01,0.0,0.01
+541.0,Side Kicks!,2017,Adventure,Nippon Ichi Software,0.0,0.0,0.01,0.0,0.01
+542.0,RepKiss,2017,Adventure,Entergram,0.0,0.0,0.01,0.0,0.01
+543.0,Monster Radar,2011,Action,Sony Computer Entertainment,0.0,0.0,0.01,0.0,0.01
+544.0,Sumioni,N/A,Action,,0.0,0.0,0.01,0.0,0.01
+545.0,Fata Morgana no Kan: Collected Edition,2017,Adventure,Dramatic Create,0.0,0.0,0.01,0.0,0.01
+546.0,Zettai Geigeki Wars,2015,Action,Acquire,0.0,0.0,0.01,0.0,0.01
+547.0,Soukai Buccaneers,2014,Adventure,Unknown,0.0,0.0,0.01,0.0,0.01
+548.0,Captain Earth: Mind Labyrinth,2015,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01
+549.0,VA-11 HALL-A,2017,Visual Novel,Playism,0.0,0.0,0.01,0.0,0.01
+550.0,Karumaruka Circle,2017,Adventure,Entergram,0.0,0.0,0.01,0.0,0.01
+551.0,Teikoku Kaleido: Kakumei no Rondo,2017,Adventure,Dramatic Create,0.0,0.0,0.01,0.0,0.01
+552.0,Clannad,2014,Misc,Prototype,0.0,0.0,0.01,0.0,0.01
+553.0,KLAP!! Kind Love And Punish,2015,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01
+554.0,Little King's Story,2012,Misc,Konami Digital Entertainment,0.0,0.01,0.0,0.0,0.01
+555.0,Rewrite: Harvest Festa!,2017,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01
+556.0,Genji Koi Emaki,2015,Action,Quinrose,0.0,0.0,0.01,0.0,0.01
+557.0,Teikoku Kaigun Renbojou: Meiji Yokosuka Koushinkyoku,2015,Action,D3Publisher,0.0,0.0,0.01,0.0,0.01
+558.0,Renai 0 Kilometer,2014,Adventure,Kaga Create,0.0,0.0,0.01,0.0,0.01
+559.0,Monobeno: Pure Smile,2014,Adventure,HuneX,0.0,0.0,0.01,0.0,0.01
+560.0,Yoshiwara Higanbana Kuon no Chigiri,2017,Visual Novel,Prototype,0.0,0.0,0.01,0.0,0.01
+561.0,Jyuzaengi: Engetsu Sangokuden 1 + 2,2015,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01
+562.0, Hanasaki Work Spring!,2017,Adventure,Entergram,0.0,0.0,0.01,0.0,0.01
+563.0,Orfleurs: Koufuku no Hanataba,2017,Adventure,Dramatic Create,0.0,0.0,0.01,0.0,0.01
+564.0,Moe Moe 2-ji Daisenryaku 3,2017,Misc,System Soft Alpha,0.0,0.0,0.01,0.0,0.01
+565.0,Tsuihou Senkyo,2017,Adventure,Nippon Ichi Software,0.0,0.0,0.01,0.0,0.01
+566.0,Eiyuu * Senki,2014,Misc,5pb,0.0,0.0,0.01,0.0,0.01
+567.0,Yuukyuu no Tierblade: Fragments of Memory,2017,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+568.0,Fushigi no Chronicle: Furikaerimasen Katsu Madewa,2015,Action,Screenlife,0.0,0.0,0.01,0.0,0.01
+569.0,Timepiece Ensemble,2017,Adventure,Entergram,0.0,0.0,0.01,0.0,0.01
+570.0,Nanairo Reincarnation,2015,Action,Silky`s,0.0,0.0,0.01,0.0,0.01
+571.0,Moujuutsukai to Oujisama: Flower & Snow,2015,Action,Idea Factory,0.0,0.0,0.01,0.0,0.01
+572.0,Heiligenstadt no Uta,2017,Adventure,Nippon Cultural Broadcasting eXtend,0.0,0.0,0.01,0.0,0.01
+573.0,Oretachi ni Tsubasa wa Nai,2014,Misc,5pb,0.0,0.0,0.01,0.0,0.01
+574.0,Invizimals: The Resistance,2014,Simulation,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.01
+575.0,Re: Vice[d],N/A,Adventure,,0.0,0.0,0.01,0.0,0.01
+576.0,Moujuu-Tachi to Ohimesama: In Blossom,2017,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+577.0, Iwaihime: Matsuri,2017,Adventure,Nippon Ichi Software,0.0,0.0,0.01,0.0,0.01
+578.0,Vamwolf Cross,2015,Action,D3Publisher,0.0,0.0,0.01,0.0,0.01
+579.0,Tokyo Onmyouji: Tengen Jibashi - Rei no Baai - V Edition,2015,Action,Dramatic Create,0.0,0.0,0.01,0.0,0.01
+580.0,Oretachi no Sekai wa Shimatteiru,2017,Adventure,RED Entertainment,0.0,0.0,0.01,0.0,0.01
+581.0,Island,2017,Adventure,Prototype,0.0,0.0,0.01,0.0,0.01
+582.0,Ima Sugu Oniichan ni Imoto da tte Iitai!,2014,Misc,Piacci,0.0,0.0,0.01,0.0,0.01
+583.0, Amaekata wa Kanojo Nari ni.,2017,Visual Novel,Entergram,0.0,0.0,0.01,0.0,0.01
+584.0,Flowers: Natsu-hen,2015,Action,Prototype,0.0,0.0,0.01,0.0,0.01
+585.0,KLAP!! Kind Love And Punish: Fun Party,2017,Adventure,Idea Factory,0.0,0.0,0.01,0.0,0.01
+586.0,Steam Prison: Nanatsu no Bitoku,2017,Adventure,Dramatic Create,0.0,0.0,0.01,0.0,0.01
+587.0, Tokeijikake no Ley Line: Kagerou ni Samayou Majo,2017,Adventure,Dramatic Create,0.0,0.0,0.01,0.0,0.01
+588.0,Rear Pheles: Red of Another,2015,Action,Unknown,0.0,0.0,0.01,0.0,0.01
+589.0,Tokyo Yamanote Boys for V: Main Disc,2017,Adventure,Rejet,0.0,0.0,0.01,0.0,0.01
+590.0,Nekketsu Inou Bukatsu: Trigger Kiss,2014,Adventure,Idea Factory,0.0,0.0,0.0,0.0,0.0
+591.0,Desire: Remaster Version,2017,Adventure,El Dia,0.0,0.0,0.0,0.0,0.0
+592.0,Dynamic Chord feat. Kyohso: V Edition,2017,Adventure,honeybee,0.0,0.0,0.0,0.0,0.0
+593.0,Owaru Sekai to Birthday,2017,Adventure,Entergram,0.0,0.0,0.0,0.0,0.0
+594.0,Canimal Triple,2014,Misc,Warner Bros. Interactive Entertainment,0.0,0.0,0.0,0.0,0.0
+595.0,Teslagrad,2015,Platform,Rain Games,0.0,0.0,0.0,0.0,0.0
+596.0, Chain Chronicle,2014,Misc,Sega,0.0,0.0,0.0,0.0,0.0
+597.0,Professional Farmer 2016,2015,Action,Namco Bandai Games,0.0,0.0,0.0,0.0,0.0
+598.0,Handball 16,2015,Sports,Bigben Interactive,0.0,0.0,0.0,0.0,0.0
+599.0,Crank In,2017,Adventure,Petit Reve,0.0,0.0,0.0,0.0,0.0
+600.0,Sengoku Hime 4: Souha Hyakkei Hanamamoru Chikai,2014,Adventure,SystemSoft Alpha,0.0,0.0,0.0,0.0,0.0
+601.0,Shinsouban Mahou Tsukai no Goshujinsama,2015,Action,Quinrose,0.0,0.0,0.0,0.0,0.0
+602.0,Muppets Movie Adventures,2014,Action,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+603.0,Danganronpa 1o2 Reload,2017,Adventure,Screenlife,0.0,0.0,0.0,0.0,0.0
+604.0,Liberation Maiden SIN,2014,Visual Novel,5pb,0.0,0.0,0.0,0.0,0.0
+605.0,Durarara!! 3way Standoff: Alley,2014,Misc,Kadokawa Shoten,0.0,0.0,0.0,0.0,0.0
+606.0,Starry Sky: Summer Stories,2017,Adventure,honeybee,0.0,0.0,0.0,0.0,0.0
+607.0,The Amazing Spider-Man (Console Version),2013,Action-Adventure,Activision,0.0,0.0,0.0,0.0,0.0
+608.0,WRC 4: FIA World Rally Championship,2013,Action,Bigben Interactive,0.0,0.0,0.0,0.0,0.0
+609.0,Superbeat: Xonic,2015,Misc,PM Studios,0.0,0.0,0.0,0.0,0.0
+610.0,Tetris Ultimate ,2014,Puzzle,Ubisoft,0.0,0.0,0.0,0.0,0.0
+611.0,Zettai Meikyuu: Himitsu no Oya Yubi Hime,2015,Action,Views,0.0,0.0,0.0,0.0,0.0
+612.0,Natsumegu,2015,Action,Unknown,0.0,0.0,0.0,0.0,0.0
+613.0,Ratchet & Clank: Full Frontal Assault,2012,Action,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+614.0,Super Monkey Ball: Banana Splitz,2012,Misc,Sega,0.0,0.0,0.0,0.0,0.0
+615.0,Shinsouhan Heart no Kuni no Alice: Wonderful Wonder World,2015,Action,Quinrose,0.0,0.0,0.0,0.0,0.0
+616.0,Jak & Daxter Collection,2012,Action,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+617.0,Velocity 2X,2014,Action,Futurlab 1,0.0,0.0,0.0,0.0,0.0
+618.0,Zero Time Dilemma,2016,Action,Screenlife,0.0,0.0,0.0,0.0,0.0
+619.0,Zero Escape: Virtue's Last Reward,2012,Misc,Rising Star Games,0.0,0.0,0.0,0.0,0.0
+620.0,Age of Zombies,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+621.0,Angry Birds,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+622.0,AR Combat DiGiQ,2011,Action,Konami,0.0,0.0,0.0,0.0,0.0
+623.0,Battlefied 2,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+624.0,Bee Tap Extreme,2014,Action,Milestone S.r.l,0.0,0.0,0.0,0.0,0.0
+625.0,Bioshock Vita,N/A,Shooter,,0.0,0.0,0.0,0.0,0.0
+626.0,Browser San Goku Shi: Touch Battle,N/A,Strategy,,0.0,0.0,0.0,0.0,0.0
+627.0,Castle of Illusion Starring Mickey Mouse,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+628.0,Cel Damage,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+629.0,Dark Quest,2011,Role-Playing,Ubisoft,0.0,0.0,0.0,0.0,0.0
+630.0,Disgaea 3: Absence of Justice,2011,Misc,NIS America,0.0,0.0,0.0,0.0,0.0
+631.0,DJ Max Technika,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+632.0,DJ Max Technika Portable,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+633.0,Donut Yum!,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+634.0,Draw Slasher: Prologue,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+635.0,Dream Club Zero,2011,Simulation,D3 Publisher,0.0,0.0,0.0,0.0,0.0
+636.0,Dungeon Defenders,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+637.0,DUST 514,N/A,Shooter,,0.0,0.0,0.0,0.0,0.0
+638.0,Dynasty Warriors ,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+639.0,Endless Apples,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+640.0,Escape Plan,2012,Puzzle,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+641.0,Hot Shots Golf,2011,Misc,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+642.0,Fez,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+643.0,Fish On,N/A,Sports,,0.0,0.0,0.0,0.0,0.0
+644.0,FreeCell FULL GAME,2013,Misc,Namco Bandai Games,0.0,0.0,0.0,0.0,0.0
+645.0,Frozen Synapse,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+646.0,Fruit Ninja,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+647.0,Future Combat - Patriots at War,2013,Misc,Namco Bandai Games,0.0,0.0,0.0,0.0,0.0
+648.0,Ginsei Igo,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+649.0,Ginsei Shogi: Fuuun Ryuuko Raiden,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+650.0,Grand Theft Auto: London 1969,2014,Misc,TGL,0.0,0.0,0.0,0.0,0.0
+651.0,Grand Theft Auto: The Trilogy,2014,Misc,Kadokawa Games,0.0,0.0,0.0,0.0,0.0
+652.0,Guardian Knight,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+653.0,Gyokugen Dasshutsu Adv: Zennin Shiboudes,N/A,Adventure,,0.0,0.0,0.0,0.0,0.0
+654.0,Hello Kitty to Issho: Block Crash V,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+655.0,Hustle Kings,2012,Sports,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+656.0,Jetpack Joyride,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+657.0,Jonah Lomu Rugby Challenge,N/A,Sports,Home Entertainment Suppliers,0.0,0.0,0.0,0.0,0.0
+658.0,Jumpin',N/A,Action,,0.0,0.0,0.0,0.0,0.0
+659.0,Kimi wo Aogi Otome wa Hime ni,2016,Misc,Entergram,0.0,0.0,0.0,0.0,0.0
+660.0,King's Quest I: Quest for the Crown (VGA Version),N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+661.0,Kyoukugen Dasshutsu ADV: Zennin Shiboudesu,N/A,Adventure,,0.0,0.0,0.0,0.0,0.0
+662.0,Ladybug Puzzle,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+663.0,LIMBO,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+664.0,Mad Blocker Adventure,N/A,Puzzle,,0.0,0.0,0.0,0.0,0.0
+665.0,Mahjong Fight Club: Shinsei Zenkoku Taisen Han,2011,Misc,Konami,0.0,0.0,0.0,0.0,0.0
+666.0,Malicious,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+667.0,Maniac Mansion: Day of the Tentacle,N/A,Adventure,,0.0,0.0,0.0,0.0,0.0
+668.0,Maplus Portable Navi 4,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+669.0,Marvel Pinball,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+670.0,Mega Man X4,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+671.0,Mega Man X5,N/A,Platform,,0.0,0.0,0.0,0.0,0.0
+672.0,Metal Gear Solid 3: Snake Eater,2012,Misc,Konami Digital Entertainment,0.0,0.0,0.0,0.0,0.0
+673.0,Metal Slug 3,2015,Shooter,SNK Playmore,0.0,0.0,0.0,0.0,0.0
+674.0,Monster Daihyakka,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+675.0,Monster Hunter Freedom 2,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+676.0,Monster Trucks / Quad Desert Fury Double Value!,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+677.0,Mr. Ink Jet,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+678.0,Mutant Mudds,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+679.0,NAX Music Player,2011,Misc,Arc System Works,0.0,0.0,0.0,0.0,0.0
+680.0,Next Education: Eibunpou,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+681.0,Next Education: Gyouseishoshi,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+682.0,Nikoli no Sudoku: Kanzenhan,N/A,Puzzle,,0.0,0.0,0.0,0.0,0.0
+683.0,Oddworld: Abe's Exoddus,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+684.0,Oddworld: Munch's Oddysee,N/A,Platform,,0.0,0.0,0.0,0.0,0.0
+685.0,Oddworld: Stranger's Wrath,N/A,Platform,,0.0,0.0,0.0,0.0,0.0
+686.0,Order Up!!,2020,Action,Ignition Entertainment,0.0,0.0,0.0,0.0,0.0
+687.0,Pencil Doodle,2014,Misc,Sony Computer Entertainment Europe,0.0,0.0,0.0,0.0,0.0
+688.0,Plants vs. Zombies,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+689.0,ProBaseball:Unlimited,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+690.0,Project N.O.E.L.S.,2011,Misc,Arc System Works,0.0,0.0,0.0,0.0,0.0
+691.0,Queen's Crown,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+692.0,Retro City Rampage,2012,Misc,Vblank Entertainment Inc.,0.0,0.0,0.0,0.0,0.0
+693.0,Rugby Challenge,N/A,Sports,,0.0,0.0,0.0,0.0,0.0
+694.0,Ruin,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+695.0,Sacred 3,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+696.0,Sawari Makuru!,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+697.0,Shirotsuku,N/A,Strategy,,0.0,0.0,0.0,0.0,0.0
+698.0,Sound Shapes,N/A,Misc,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+699.0,Spelunky,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+700.0,Star Strike,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+701.0,Super Stardust Delta,2012,Action,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+702.0,The Rainbow Colored Deer Games,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+703.0,Top Darts,2012,Sports,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+704.0,Voltron,N/A,Action,THQ,0.0,0.0,0.0,0.0,0.0
+705.0,Wargame,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+706.0,Werewolves vs Vampires,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+707.0,Yuusha no Kiroku,N/A,Strategy,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+708.0,Zone of the enders HD collection,2012,Simulation,Unknown,0.0,0.0,0.0,0.0,0.0
+709.0,Skullgirls,N/A,Fighting,,0.0,0.0,0.0,0.0,0.0
+710.0,Dead Nation,2020,Misc,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+711.0,flower,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+712.0,PixelJunk Monsters,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+713.0,PixelJunk Shooter,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+714.0,PixelJunk Shooter 2,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+715.0,Rainbow Moon,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+716.0,A-Men,2012,Misc,Bloober Team,0.0,0.0,0.0,0.0,0.0
+717.0,Tales From Space: Mutant Blobs Attack,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+718.0,Moe Moe Daisensou * Gendaiban++,2012,Misc,SystemSoft,0.0,0.0,0.0,0.0,0.0
+719.0,The Binding of Isaac,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+720.0,Slotter Mania V: Black Lagoon,2012,Misc,Dorart,0.0,0.0,0.0,0.0,0.0
+721.0,Plants vs. Zombies,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+722.0,Toeic Test: Jissen Tokkun,2012,Misc,Media5,0.0,0.0,0.0,0.0,0.0
+723.0,@field,2012,Misc,Sonic Powered,0.0,0.0,0.0,0.0,0.0
+724.0,Let's Try Bass Fishing: FISH ON NEXT,2012,Misc,Kadokawa Shoten,0.0,0.0,0.0,0.0,0.0
+725.0,Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+726.0,Madden NFL 13,2012,Misc,EA Sports,0.0,0.0,0.0,0.0,0.0
+727.0,Nikoli no Sudoku V: Shugyoku no 12 Puzzle,2012,Misc,Hamster Corporation,0.0,0.0,0.0,0.0,0.0
+728.0,NBA 2K13,2012,Misc,2K Sports,0.0,0.0,0.0,0.0,0.0
+729.0,Picotto Knights,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+730.0,Oddworld: Abe's Oddysee New N' Tasty!,N/A,Platform,,0.0,0.0,0.0,0.0,0.0
+731.0,Broken Age,2015,Adventure,Nordic Games,0.0,0.0,0.0,0.0,0.0
+732.0,Two Brothers,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+733.0,Phantom Breaker: Battle Grounds,N/A,Fighting,,0.0,0.0,0.0,0.0,0.0
+734.0,Thomas Was Alone,2013,Misc,DECK13 Interactive GmbH,0.0,0.0,0.0,0.0,0.0
+735.0,Germinator,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+736.0,Hotline Miami,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+737.0,Urban Trial Freestyle,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+738.0,The Unfinished Swan,N/A,Adventure,,0.0,0.0,0.0,0.0,0.0
+739.0,Don't Starve,N/A,Adventure,,0.0,0.0,0.0,0.0,0.0
+740.0,Nun Attack,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+741.0,The Swapper,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+742.0,Contrast,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+743.0,Guacamelee!,2013,Misc,DrinkBox Studios,0.0,0.0,0.0,0.0,0.0
+744.0,Shovel Knight,N/A,Platform,,0.0,0.0,0.0,0.0,0.0
+745.0,Zen Pinball 2,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+746.0,Dragon Fantasy Book I,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+747.0,Hohokum,2014,Misc,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+748.0,CounterSpy,2014,Action,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+749.0,Jacob Jones and the Bigfoot Mystery,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+750.0,Men's Room Mayhem,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+751.0,Quell Memento,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+752.0,The Banner Saga,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+753.0,BADLAND,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+754.0,Star Wars Pinball,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+755.0,Real Boxing,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+756.0,Smart As...,2012,Misc,Sony Computer Entertainment Europe,0.0,0.0,0.0,0.0,0.0
+757.0,Hungry Giraffe,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+758.0,Frobisher Says!,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+759.0,Ecolibrium,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+760.0,Velocity (2012),N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+761.0,Dragon's Dogma Quest,2020,Misc,Capcom,0.0,0.0,0.0,0.0,0.0
+762.0,Sparkle 2,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+763.0,Table Top Racing,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+764.0,Mercenary Kings,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+765.0,Galak-Z: The Dimensional,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+766.0,Destiny of Spirits,2020,Misc,Unknown,0.0,0.0,0.0,0.0,0.0
+767.0,The Walking Dead: 400 Days,2020,Misc,Telltale Games,0.0,0.0,0.0,0.0,0.0
+768.0,KickBeat,2013,Misc,ZEN Studios,0.0,0.0,0.0,0.0,0.0
+769.0,Floating Cloud God Saves the Pilgrims,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+770.0,Stick It to the Man,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+771.0,Frozen Synapse: Tactics,2013,Misc,Double Eleven Studios,0.0,0.0,0.0,0.0,0.0
+772.0,LUFTRAUSERS,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+773.0,Class of Heroes II,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+774.0,Dragon Fantasy Book II,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+775.0,Aban Hawkins & the 1001 Spikes,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+776.0,Gods Eater 2,2013,Misc,Namco Bandai Games,0.0,0.0,0.0,0.0,0.0
+777.0,Home - a Unique Horror Adventure,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+778.0,Soul Saga,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+779.0,Rogue Legacy,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+780.0,Project Phoenix,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+781.0,Rui wa Tomo o Yobu,2013,Misc,5pb,0.0,0.0,0.0,0.0,0.0
+782.0,Rozen Maiden: Wechseln Sie Welt ab,2014,Misc,5pb,0.0,0.0,0.0,0.0,0.0
+783.0,Drifter: A Space Trading Game,N/A,Simulation,,0.0,0.0,0.0,0.0,0.0
+784.0,Volume,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+785.0,Open Me!,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+786.0,BreakQuest: Extra Evolution,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+787.0,Sweet Fuse: At Your Side,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+788.0,Ms. Germinator,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+789.0,SteamWorld Dig: A Fistful of Dirt,N/A,Platform,,0.0,0.0,0.0,0.0,0.0
+790.0,Risk of Rain,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+791.0,Helldivers,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+792.0,RESOGUN,N/A,Shooter,,0.0,0.0,0.0,0.0,0.0
+793.0,Murasaki Baby,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+794.0,Hotline Miami 2: Wrong Number,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+795.0,WonderFlick,2014,Misc,Level 5,0.0,0.0,0.0,0.0,0.0
+796.0,Monochroma,2014,Misc,Unknown,0.0,0.0,0.0,0.0,0.0
+797.0,Unmechanical,N/A,Puzzle,,0.0,0.0,0.0,0.0,0.0
+798.0,Divekick,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+799.0,Hyper Light Drifter,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+800.0,Lone Survivor,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+801.0,OlliOlli,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+802.0,Switch Galaxy Ultra,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+803.0,Legend of Raven,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+804.0,Mighty No. 9,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+805.0,Deemo,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+806.0,Stealth Inc.,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+807.0,Tales from the Borderlands,2015,Adventure,Telltale Games,0.0,0.0,0.0,0.0,0.0
+808.0,Kodoku,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+809.0,Knytt Underground,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+810.0,Rebellion Run: Dash or Capture,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+811.0,Fantasy Hero: Unsigned Legacy,2014,Misc,Arc System Works,0.0,0.0,0.0,0.0,0.0
+812.0,Broken Sword 5 - the Serpents Curse,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+813.0,Makai Ichiban Kan,2015,Misc,Compile Heart,0.0,0.0,0.0,0.0,0.0
+814.0,El Chavo Kart,2020,Misc,Slang,0.0,0.0,0.0,0.0,0.0
+815.0, Mahjong World Contest ,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+816.0,Project Root,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+817.0,Pavilion,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+818.0,Creatures and Castles VX,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+819.0,forma.8,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+820.0,Galatea,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+821.0,Kingdom Three Musketeers,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+822.0,Trolly Bird,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+823.0,Mahou Shoujo Taisen Zanbatsu,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+824.0,Dekamori Senran Kagura,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+825.0,Fort Defense North Menace,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+826.0,The Irregular at Magic High School: Out of Order,2014,Misc,Namco Bandai Games,0.0,0.0,0.0,0.0,0.0
+827.0,Aztez,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+828.0,Ore ni Hatarakette Iwaretemo Otsu,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+829.0,Flame Over,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+830.0,Boot Hill Heroes,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+831.0,Cult County,2015,Misc,Renegade Kid,0.0,0.0,0.0,0.0,0.0
+832.0,Z-Run ,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+833.0,Citizens of Earth,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+834.0,Road Not Taken,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+835.0,Sekai Seifuku: Costume Fes,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+836.0,Severed,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+837.0,Backgammon Blitz,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+838.0,Hitman GO,N/A,Puzzle,,0.0,0.0,0.0,0.0,0.0
+839.0, MechRunner,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+840.0,"Heart Forth, Alicia",N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+841.0,Origami Kami,2014,Misc,Valhalla Game Studios,0.0,0.0,0.0,0.0,0.0
+842.0,Crazy Market,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+843.0,Montezuma Blitz,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+844.0,MouseCraft,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+845.0,Crimsonland,N/A,Shooter,,0.0,0.0,0.0,0.0,0.0
+846.0,Son of Scoregasm,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+847.0,Life of Pixel,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+848.0,"Motto Ane, Chan to Shiyouyo!",2014,Misc,NetRevo,0.0,0.0,0.0,0.0,0.0
+849.0,Red Goddess,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+850.0,Lemmings Touch,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+851.0,Haunt the House: Terrortown,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+852.0,EarthNight,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+853.0,One Way Trip,N/A,Adventure,,0.0,0.0,0.0,0.0,0.0
+854.0,Reel Fishing: Master's Challenge,2020,Sports,Natsume,0.0,0.0,0.0,0.0,0.0
+855.0,Entwined,2014,Action,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+856.0,Broforce,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+857.0,Blast 'Em Bunnies,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+858.0,Woah Dave!,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+859.0,Metrico,N/A,Puzzle,,0.0,0.0,0.0,0.0,0.0
+860.0,Magical Beat,N/A,Puzzle,,0.0,0.0,0.0,0.0,0.0
+861.0,Fat Dragons,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+862.0,Instant Dungeon!,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+863.0,Tuffy the Corgi and the Tower of Bones,N/A,Platform,,0.0,0.0,0.0,0.0,0.0
+864.0,Pop Bugs Zap,N/A,Misc,,0.0,0.0,0.0,0.0,0.0
+865.0,Rollers of the Realm,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+866.0,Q*bert: Rebooted,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+867.0,Rail Wars,2014,Adventure,5pb,0.0,0.0,0.0,0.0,0.0
+868.0,Soushuu Senshinkan Gakuen: Hachimyoujin - Ten no Koku,2014,Adventure,Unknown,0.0,0.0,0.0,0.0,0.0
+869.0,Judas Code,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+870.0,Inner City Kids,N/A,Strategy,,0.0,0.0,0.0,0.0,0.0
+871.0,High School DxD: New Fight ,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+872.0,The Hungry Horde,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+873.0,M3 The Dark Metal: Mission Memento Mori,2014,Adventure,Namco Bandai Games,0.0,0.0,0.0,0.0,0.0
+874.0,Nom Nom Galaxy,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+875.0,PIX the CAT,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+876.0,Kick & Fennick,N/A,Adventure,,0.0,0.0,0.0,0.0,0.0
+877.0,Titan Souls,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+878.0,OniKira: Demon Killer,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+879.0,Chaos;Head Dual,2014,Visual Novel,5pb,0.0,0.0,0.0,0.0,0.0
+880.0,Salt and Sanctuary,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+881.0,Alone With You,N/A,Adventure,,0.0,0.0,0.0,0.0,0.0
+882.0,Run Sackboy! Run!,N/A,Platform,,0.0,0.0,0.0,0.0,0.0
+883.0,Tadeo Jones y el manuscrito perdido,2014,Adventure,Deep Silver,0.0,0.0,0.0,0.0,0.0
+884.0,Invokers Tournament,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+885.0,Darkest Dungeon,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+886.0,OlliOlli 2: Welcome to Olliwood,N/A,Platform,,0.0,0.0,0.0,0.0,0.0
+887.0,Exogenesis: Perils of Rebirth,N/A,Adventure,,0.0,0.0,0.0,0.0,0.0
+888.0,Adventure Time: The Secret of the Nameless Kingdom,2014,Action,Little Orbit,0.0,0.0,0.0,0.0,0.0
+889.0,The Banner Saga 2,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+890.0,SaGa 2015,2015,Role-Playing,Square Enix,0.0,0.0,0.0,0.0,0.0
+891.0,Kadenz Fermata//Akkord:Fortissimo,2014,Adventure,5pb,0.0,0.0,0.0,0.0,0.0
+892.0,Saekano: How to Raise a Boring Girlfriend,2015,Adventure,5pb,0.0,0.0,0.0,0.0,0.0
+893.0,Fat Princess: Piece of Cake,N/A,Puzzle,,0.0,0.0,0.0,0.0,0.0
+894.0,Eiyuu Senki: The World Conquest,2014,Role-Playing,5pb,0.0,0.0,0.0,0.0,0.0
+895.0,Higurashi When The Cry Sui,2015,Action,Kaga Create,0.0,0.0,0.0,0.0,0.0
+896.0,Haruka naru Jikuu no Naka de 6,2015,Action,Tecmo Koei,0.0,0.0,0.0,0.0,0.0
+897.0,Hyperdimension Neptunia Re;Birth 1,2013,Action,Tecmo Koei,0.0,0.0,0.0,0.0,0.0
+898.0,Final Fantasy X/X-2 HD Remaster,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+899.0,Krinkle Krusher,N/A,Strategy,,0.0,0.0,0.0,0.0,0.0
+900.0,Girl Friend Beta: Summer Vacation Spent With You,2015,Adventure,"CyberAgent, Inc.",0.0,0.0,0.0,0.0,0.0
+901.0,Mobile Suit Gundam: Battle Fortress,N/A,Simulation,,0.0,0.0,0.0,0.0,0.0
+902.0,Nobunaga's Ambition: Creation,2015,Action,Tecmo Koei,0.0,0.0,0.0,0.0,0.0
+903.0,Ikenie to Yuki no Setsuna,2016,Role-Playing,Square Enix,0.0,0.0,0.0,0.0,0.0
+904.0,Punch Line,2015,Adventure,5pb,0.0,0.0,0.0,0.0,0.0
+905.0,Night Watch,2015,Action,Nippon Ichi Software,0.0,0.0,0.0,0.0,0.0
+906.0,Atelier Sophie,2020,Role-Playing,Gust,0.0,0.0,0.0,0.0,0.0
+907.0,Death Under the Labyrinth,2015,Role-Playing,Compile Heart,0.0,0.0,0.0,0.0,0.0
+908.0,Dengeki Bunko: Fighting Climax Ignition,2015,Action,Sega,0.0,0.0,0.0,0.0,0.0
+909.0,Amnesia: Memories,2013,Adventure,Idea Factory,0.0,0.0,0.0,0.0,0.0
+910.0,Seraph of the End: The Origin of Fate,2020,Role-Playing,Namco Bandai Games,0.0,0.0,0.0,0.0,0.0
+911.0,Muse: Together Is the New Alone,N/A,Adventure,,0.0,0.0,0.0,0.0,0.0
+912.0,Cross Reverie,2017,Role-Playing,Sinxsoft,0.0,0.0,0.0,0.0,0.0
+913.0,Killing Bites,2016,Action,Unknown,0.0,0.0,0.0,0.0,0.0
+914.0,The Asterisk War: The Academy City of the Water Houka Kenran,2016,Action,Namco Bandai Games,0.0,0.0,0.0,0.0,0.0
+915.0,Minecraft: Story Mode,2020,Adventure,Mojang,0.0,0.0,0.0,0.0,0.0
+916.0,Tiny Troopers Joint Ops,2014,Action,Unknown,0.0,0.0,0.0,0.0,0.0
+917.0,Sly Cooper Collection,2014,Action,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+918.0,MOTOGP 13,2013,Action,Milestone,0.0,0.0,0.0,0.0,0.0
+919.0,WRC 3: FIA World Rally Championship,2012,Action,PQube,0.0,0.0,0.0,0.0,0.0
+920.0,Norn9: Var Commons,2014,Action,Aksys Games,0.0,0.0,0.0,0.0,0.0
+921.0,God Wars: Beyond Time,2016,Role-Playing,Kadokawa Games,0.0,0.0,0.0,0.0,0.0
+922.0,Read Only Memories,N/A,Adventure,,0.0,0.0,0.0,0.0,0.0
+923.0,Shakedown Hawaii,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+924.0,Nights of Azure,2015,Action,Tecmo Koei,0.0,0.0,0.0,0.0,0.0
+925.0,Jikkyou Powerful Pro Baseball Success Special,N/A,Sports,,0.0,0.0,0.0,0.0,0.0
+926.0,Rose and the Old Castle of Twilight,2016,Platform,Nippon Ichi Software,0.0,0.0,0.0,0.0,0.0
+927.0,Adventures of Mana,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+928.0,The Binding of Isaac: Rebirth,N/A,Action,,0.0,0.0,0.0,0.0,0.0
+929.0,Reco Love: Gold Beach,2016,Adventure,Kadokawa Games,0.0,0.0,0.0,0.0,0.0
+930.0,Tokyo Xanadu eX+,2017,Role-Playing,Aksys Games,0.0,0.0,0.0,0.0,0.0
+931.0,Berserk Musou,2016,Action,Tecmo Koei,0.0,0.0,0.0,0.0,0.0
+932.0,PlayStation VR Worlds,2016,Misc,Sony Computer Entertainment,0.0,0.0,0.0,0.0,0.0
+933.0,PriministAr,2016,Adventure,Entergram,0.0,0.0,0.0,0.0,0.0
+934.0,Fallen Legion: Flames of Rebellion,N/A,Role-Playing,,0.0,0.0,0.0,0.0,0.0
+935.0,,N/A,,,0.0,0.0,0.0,0.0,0.0
